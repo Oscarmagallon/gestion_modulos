@@ -20,7 +20,7 @@ public class Principal {
 			} catch (Exception e) {
 				opc = 0;
 				leer = new Scanner(System.in);
-				System.out.println("No puedes escribir ese dato");
+				System.out.println("No puedes introducir ese dato");
 			}
 			
 			
