@@ -10,7 +10,7 @@ public class Modulos {
 		this.codigo = codigo;
 		this.horas = horas;
 	}
-
+	
 	public String getNombre() {
 		return nombre;
 	}
